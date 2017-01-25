@@ -1,5 +1,5 @@
 //
-//  SecondViewController.h
+//  PATimerControllerView.h
 //  petpat
 //
 //  Created by Kyle on 1/19/17.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SecondViewController : UIViewController
-
+@interface PATimerViewController : UIViewController
 
 @end
-

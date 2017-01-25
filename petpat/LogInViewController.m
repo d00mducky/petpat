@@ -1,18 +1,18 @@
 //
-//  SecondViewController.m
+//  FirstViewController.m
 //  petpat
 //
 //  Created by Kyle on 1/19/17.
 //  Copyright © 2017 CWU. All rights reserved.
 //
 
-#import "SecondViewController.h"
+#import "LogInViewController.h"
 
-@interface SecondViewController ()
+@interface LogInViewController ()
 
 @end
 
-@implementation SecondViewController
+@implementation LogInViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];

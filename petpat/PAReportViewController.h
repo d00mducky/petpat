@@ -1,5 +1,5 @@
 //
-//  FirstViewController.h
+//  PAReportViewController.h
 //  petpat
 //
 //  Created by Kyle on 1/19/17.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface FirstViewController : UIViewController
-
+@interface PAReportViewController : UIViewController
 
 @end
-
