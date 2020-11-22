@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>petpat.xcscheme</key>
+		<key>PETPAT.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>27D4EBCF1E31284E00EE8F48</key>
+		<key>27ADB2D61E4BDF2F00CC83C9</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>27D4EBEB1E31284E00EE8F48</key>
+		<key>27ADB2ED1E4BDF2F00CC83C9</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>27D4EBF61E31284E00EE8F48</key>
+		<key>27ADB2F81E4BDF2F00CC83C9</key>
 		<dict>
 			<key>primary</key>
 			<true/>

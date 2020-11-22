@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "27D4EBCF1E31284E00EE8F48"
-               BuildableName = "petpat.app"
-               BlueprintName = "petpat"
-               ReferencedContainer = "container:petpat.xcodeproj">
+               BlueprintIdentifier = "27ADB2D61E4BDF2F00CC83C9"
+               BuildableName = "PETPAT.app"
+               BlueprintName = "PETPAT"
+               ReferencedContainer = "container:PETPAT.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "27D4EBEB1E31284E00EE8F48"
-               BuildableName = "petpatTests.xctest"
-               BlueprintName = "petpatTests"
-               ReferencedContainer = "container:petpat.xcodeproj">
+               BlueprintIdentifier = "27ADB2ED1E4BDF2F00CC83C9"
+               BuildableName = "PETPATTests.xctest"
+               BlueprintName = "PETPATTests"
+               ReferencedContainer = "container:PETPAT.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "27D4EBF61E31284E00EE8F48"
-               BuildableName = "petpatUITests.xctest"
-               BlueprintName = "petpatUITests"
-               ReferencedContainer = "container:petpat.xcodeproj">
+               BlueprintIdentifier = "27ADB2F81E4BDF2F00CC83C9"
+               BuildableName = "PETPATUITests.xctest"
+               BlueprintName = "PETPATUITests"
+               ReferencedContainer = "container:PETPAT.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "27D4EBCF1E31284E00EE8F48"
-            BuildableName = "petpat.app"
-            BlueprintName = "petpat"
-            ReferencedContainer = "container:petpat.xcodeproj">
+            BlueprintIdentifier = "27ADB2D61E4BDF2F00CC83C9"
+            BuildableName = "PETPAT.app"
+            BlueprintName = "PETPAT"
+            ReferencedContainer = "container:PETPAT.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "27D4EBCF1E31284E00EE8F48"
-            BuildableName = "petpat.app"
-            BlueprintName = "petpat"
-            ReferencedContainer = "container:petpat.xcodeproj">
+            BlueprintIdentifier = "27ADB2D61E4BDF2F00CC83C9"
+            BuildableName = "PETPAT.app"
+            BlueprintName = "PETPAT"
+            ReferencedContainer = "container:PETPAT.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "27D4EBCF1E31284E00EE8F48"
-            BuildableName = "petpat.app"
-            BlueprintName = "petpat"
-            ReferencedContainer = "container:petpat.xcodeproj">
+            BlueprintIdentifier = "27ADB2D61E4BDF2F00CC83C9"
+            BuildableName = "PETPAT.app"
+            BlueprintName = "PETPAT"
+            ReferencedContainer = "container:PETPAT.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
